@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\bin\Debug\net7.0\Baraja de Cartas.exe
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\bin\Debug\net7.0\Baraja de Cartas.deps.json
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\bin\Debug\net7.0\Baraja de Cartas.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\bin\Debug\net7.0\Baraja de Cartas.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\bin\Debug\net7.0\Baraja de Cartas.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\obj\Debug\net7.0\Baraja de Cartas.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\obj\Debug\net7.0\Baraja de Cartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\obj\Debug\net7.0\Baraja de Cartas.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\obj\Debug\net7.0\Baraja de Cartas.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\obj\Debug\net7.0\Baraja de Cartas.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\obj\Debug\net7.0\Baraja de Cartas.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\obj\Debug\net7.0\refint\Baraja de Cartas.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\obj\Debug\net7.0\Baraja de Cartas.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\obj\Debug\net7.0\Baraja de Cartas.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Baraja de Cartas\obj\Debug\net7.0\ref\Baraja de Cartas.dll
